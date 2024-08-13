@@ -7,12 +7,8 @@
     background-position: center;
 }
 
-.container__imagem {
-    padding: 1em;
-}
-.container {
-    display: flex;
-    align-items: center;
+.cabeçalho {
+    background-color: var(--branco);
 }
 .cabeçalho {
     background-color: var(--branco);
@@ -20,3 +16,11 @@
     justify-content: space-between;
     align-items: center;
 }
+.container {
+    display: flex;
+    align-items: center;
+}
+.container__imagem {
+    padding: 1em;
+}
+
