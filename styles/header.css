@@ -6,10 +6,6 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-
-.cabeçalho {
-    background-color: var(--branco);
-}
 .cabeçalho {
     background-color: var(--branco);
     display: flex;
